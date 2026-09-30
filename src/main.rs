@@ -1,3 +1,7 @@
+// =================================================
 fn main() {
-    println!("Hello, world!");
+    println!("CHECK OUT THE BINS (dex_aggregator_swap_bin), or the lib.");
 }
+// =================================================
+// =================================================
+// copyright 2026 by sleet.near
